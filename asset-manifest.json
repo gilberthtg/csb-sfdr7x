@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "https://gilberthtg.github.io/csb-sfdr7x/static/css/main.49e57857.chunk.css",
+    "main.js": "https://gilberthtg.github.io/csb-sfdr7x/static/js/main.e6ad47a5.chunk.js",
+    "main.js.map": "https://gilberthtg.github.io/csb-sfdr7x/static/js/main.e6ad47a5.chunk.js.map",
+    "runtime-main.js": "https://gilberthtg.github.io/csb-sfdr7x/static/js/runtime-main.95547904.js",
+    "runtime-main.js.map": "https://gilberthtg.github.io/csb-sfdr7x/static/js/runtime-main.95547904.js.map",
+    "static/css/2.988392ef.chunk.css": "https://gilberthtg.github.io/csb-sfdr7x/static/css/2.988392ef.chunk.css",
+    "static/js/2.bfa7abc7.chunk.js": "https://gilberthtg.github.io/csb-sfdr7x/static/js/2.bfa7abc7.chunk.js",
+    "static/js/2.bfa7abc7.chunk.js.map": "https://gilberthtg.github.io/csb-sfdr7x/static/js/2.bfa7abc7.chunk.js.map",
+    "index.html": "https://gilberthtg.github.io/csb-sfdr7x/index.html",
+    "static/css/2.988392ef.chunk.css.map": "https://gilberthtg.github.io/csb-sfdr7x/static/css/2.988392ef.chunk.css.map",
+    "static/css/main.49e57857.chunk.css.map": "https://gilberthtg.github.io/csb-sfdr7x/static/css/main.49e57857.chunk.css.map",
+    "static/js/2.bfa7abc7.chunk.js.LICENSE.txt": "https://gilberthtg.github.io/csb-sfdr7x/static/js/2.bfa7abc7.chunk.js.LICENSE.txt",
+    "static/media/av1.c86fe54d.jpg": "https://gilberthtg.github.io/csb-sfdr7x/static/media/av1.c86fe54d.jpg",
+    "static/media/av2.9692a876.jpg": "https://gilberthtg.github.io/csb-sfdr7x/static/media/av2.9692a876.jpg",
+    "static/media/av3.578230d5.jpg": "https://gilberthtg.github.io/csb-sfdr7x/static/media/av3.578230d5.jpg",
+    "static/media/av4.3adcc3e8.jpg": "https://gilberthtg.github.io/csb-sfdr7x/static/media/av4.3adcc3e8.jpg",
+    "static/media/av5.d9de149b.jpg": "https://gilberthtg.github.io/csb-sfdr7x/static/media/av5.d9de149b.jpg",
+    "static/media/av6.06d5b70e.jpg": "https://gilberthtg.github.io/csb-sfdr7x/static/media/av6.06d5b70e.jpg",
+    "static/media/av7.810e298c.jpg": "https://gilberthtg.github.io/csb-sfdr7x/static/media/av7.810e298c.jpg",
+    "static/media/computer1.1c169224.jpg": "https://gilberthtg.github.io/csb-sfdr7x/static/media/computer1.1c169224.jpg",
+    "static/media/computer2.8b5c8b2a.jpg": "https://gilberthtg.github.io/csb-sfdr7x/static/media/computer2.8b5c8b2a.jpg",
+    "static/media/computer3.cb45cfe0.jpg": "https://gilberthtg.github.io/csb-sfdr7x/static/media/computer3.cb45cfe0.jpg",
+    "static/media/computer4.aa5f7ba1.jpg": "https://gilberthtg.github.io/csb-sfdr7x/static/media/computer4.aa5f7ba1.jpg",
+    "static/media/computer5.38f4f905.jpg": "https://gilberthtg.github.io/csb-sfdr7x/static/media/computer5.38f4f905.jpg",
+    "static/media/computer6.d65a60ca.jpg": "https://gilberthtg.github.io/csb-sfdr7x/static/media/computer6.d65a60ca.jpg",
+    "static/media/tipografi.248554fa.png": "https://gilberthtg.github.io/csb-sfdr7x/static/media/tipografi.248554fa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95547904.js",
+    "static/css/2.988392ef.chunk.css",
+    "static/js/2.bfa7abc7.chunk.js",
+    "static/css/main.49e57857.chunk.css",
+    "static/js/main.e6ad47a5.chunk.js"
+  ]
+}
